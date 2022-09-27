@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.cfbd6a39.css",
-    "main.js": "/my-app/static/js/main.e4b46ac3.js",
-    "static/js/787.3105be9a.chunk.js": "/my-app/static/js/787.3105be9a.chunk.js",
-    "static/media/background2.png": "/my-app/static/media/background2.8c4f4bee71b00c97fa0d.png",
-    "static/media/spritesheet.png": "/my-app/static/media/spritesheet.1509fbc7b8275907e070.png",
-    "static/media/spritesheetstandleft.png": "/my-app/static/media/spritesheetstandleft.fb4e800e09c7c44cee03.png",
-    "static/media/spritesheetrunright.png": "/my-app/static/media/spritesheetrunright.f95f5eeeda0a7e429ac8.png",
-    "static/media/spritesheetrunleft.png": "/my-app/static/media/spritesheetrunleft.517eb40aad12d4dc9c8a.png",
-    "static/media/hills.png": "/my-app/static/media/hills.cfffe4c371f5e11d372b.png",
-    "static/media/platform2.png": "/my-app/static/media/platform2.11193524a640c9a32fcd.png",
-    "static/media/platform1.png": "/my-app/static/media/platform1.244a22d76b9709f46121.png",
-    "index.html": "/my-app/index.html",
-    "main.cfbd6a39.css.map": "/my-app/static/css/main.cfbd6a39.css.map",
-    "main.e4b46ac3.js.map": "/my-app/static/js/main.e4b46ac3.js.map",
-    "787.3105be9a.chunk.js.map": "/my-app/static/js/787.3105be9a.chunk.js.map"
+    "main.css": "/game1/static/css/main.cfbd6a39.css",
+    "main.js": "/game1/static/js/main.7a90ec74.js",
+    "static/js/787.3105be9a.chunk.js": "/game1/static/js/787.3105be9a.chunk.js",
+    "static/media/background2.png": "/game1/static/media/background2.8c4f4bee71b00c97fa0d.png",
+    "static/media/spritesheet.png": "/game1/static/media/spritesheet.1509fbc7b8275907e070.png",
+    "static/media/spritesheetstandleft.png": "/game1/static/media/spritesheetstandleft.fb4e800e09c7c44cee03.png",
+    "static/media/spritesheetrunright.png": "/game1/static/media/spritesheetrunright.f95f5eeeda0a7e429ac8.png",
+    "static/media/spritesheetrunleft.png": "/game1/static/media/spritesheetrunleft.517eb40aad12d4dc9c8a.png",
+    "static/media/hills.png": "/game1/static/media/hills.cfffe4c371f5e11d372b.png",
+    "static/media/platform2.png": "/game1/static/media/platform2.11193524a640c9a32fcd.png",
+    "static/media/platform1.png": "/game1/static/media/platform1.244a22d76b9709f46121.png",
+    "index.html": "/game1/index.html",
+    "main.cfbd6a39.css.map": "/game1/static/css/main.cfbd6a39.css.map",
+    "main.7a90ec74.js.map": "/game1/static/js/main.7a90ec74.js.map",
+    "787.3105be9a.chunk.js.map": "/game1/static/js/787.3105be9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfbd6a39.css",
-    "static/js/main.e4b46ac3.js"
+    "static/js/main.7a90ec74.js"
   ]
 }
